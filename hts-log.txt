@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 01 Nov 2024 02:35:25 at http://t6sk.lol +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://t6sk.lol -O1 "C:\My Web Sites\t5kska" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:35:44	Error: 	Exit requested by shell or user
+02:35:45	Warning: 	File not added due to mirror cancel: t6sk.lol/cross.png
+02:55:53	Warning: 	File not added due to mirror cancel: t6sk.lol/cross.png
+02:55:53	Error: 	"mirror stopped by user" (-1) at link t6sk.lol/cross.png (from t6sk.lol/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 minutes 28 seconds : 18 links scanned, 17 files written (30388774 bytes overall) [30271691 bytes received at 24651 bytes/sec], 198465 bytes transferred using HTTP compression in 7 files, ratio 32%, 4.5 requests per connection
+(2 errors, 2 warnings, 0 messages)
